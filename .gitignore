@@ -22,3 +22,9 @@ assets/invoices/
 
 # OS
 .DS_Store
+
+# Object file
+*.o
+
+# Ada Library Information
+*.ali
