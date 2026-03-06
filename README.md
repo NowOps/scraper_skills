@@ -24,9 +24,9 @@ Branch: brian
 
 ## Latest Sync
 
-**Branch:** darby  
+**Branch:** brian  
 **Date:** 2026-03-06 09:08  
-**Last Commit:** 
+**Last Commit:** 5990ca3 - feat: add franchise-chatbot-plan.md
 
 ---
 
