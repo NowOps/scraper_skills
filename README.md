@@ -21,3 +21,13 @@ Branch: brian
 
 **Darby:** Chief of Staff and Primary Orchestrator  
 **Brian:** Engineer and Code Executor
+
+## Latest Sync
+
+**Branch:** darby  
+**Date:** 2026-03-06 09:08  
+**Last Commit:** 
+
+---
+
+*This README is automatically updated by the sync-to-main workflow.*
